@@ -1,0 +1,109 @@
+[08/16/2016 12:45:02] 
+
+DPRAM Errors:  No Image 0, Sync 0, DMA 0, CRC 0
+cPCI Errors:   DMA 0, CRC 0, SERR 0, Local Reset 0
+SDRAM Errors:  Single Bit 0, Double Bit 0
+IOC bus 1 slot 3:
+[12/15/2001  21:58:38] Reset  RSR: 0xe0b8  SRRO: 0x78c86460  SRR1: 0x9ffefeff
+[02/07/2002  14:28:39] Reset  RSR: 0xe0b8  SRRO: 0xfffefefb  SRR1: 0xffffffff
+[07/21/2002  21:07:21] Reset  RSR: 0xe0b8  SRRO: 0xfefefefb  SRR1: 0xffffffff
+[07/25/2002  18:07:46] Reset  RSR: 0xe0b8  SRRO: 0xfffefeff  SRR1: 0xffffffff
+[07/25/2002  19:06:46] Reset  RSR: 0xe0b8  SRRO: 0xfefefefb  SRR1: 0xffffffff
+[07/25/2002  20:41:23] Reset  RSR: 0xe0b8  SRRO: 0xfffefefb  SRR1: 0xffffffff
+[10/10/2002  18:11:31] Reset  RSR: 0xe0b8  SRRO: 0xfffefefb  SRR1: 0xffffffff
+[10/10/2002  18:27:27] Reset  RSR: 0xe0b8  SRRO: 0xfffefefb  SRR1: 0xffffffff
+[03/26/2004  14:11:43] Reset  RSR: 0xe0b8  SRRO: 0xfffefeff  SRR1: 0xffffffff
+[11/24/2004  15:07:13] Reset  RSR: 0xe0b8  SRRO: 0xfffefeff  SRR1: 0xffffffff
+[11/24/2004  16:49:34] Reset  RSR: 0xe0b8  SRRO: 0xfffefeff  SRR1: 0xffffffff
+[11/24/2004  19:07:29] Reset  RSR: 0xe0b8  SRRO: 0xfefe7efb  SRR1: 0xffffffff
+[11/24/2004  20:21:21] Reset  RSR: 0xe0b8  SRRO: 0xfffefeff  SRR1: 0xffffffff
+[11/25/2004  05:51:24] Reset  RSR: 0xe0b8  SRRO: 0xfffefeff  SRR1: 0xffffffff
+[11/25/2004  11:04:53] Reset  RSR: 0xe0b8  SRRO: 0xfffefeff  SRR1: 0xffffffff
+[11/25/2004  14:42:33] Reset  RSR: 0xe0b8  SRRO: 0xfefefeff  SRR1: 0xffffffff
+[11/25/2004  14:48:41] Reset  RSR: 0xe0b8  SRRO: 0xfffe7efb  SRR1: 0xffffffff
+[11/25/2004  15:31:45] Reset  RSR: 0xe0b8  SRRO: 0xfffefefb  SRR1: 0xffffffff
+[11/25/2004  15:48:15] Reset  RSR: 0xe0b8  SRRO: 0xfffefeff  SRR1: 0xffffffff
+[11/25/2004  15:53:25] Reset  RSR: 0xe0b8  SRRO: 0xfffe7efb  SRR1: 0xffffffff
+[11/25/2004  16:47:46] Reset  RSR: 0xe0b8  SRRO: 0xfffefeff  SRR1: 0xffffffff
+[11/25/2004  16:51:31] Reset  RSR: 0xe0b8  SRRO: 0xfffefeff  SRR1: 0xffffffff
+[11/25/2004  17:01:40] Reset  RSR: 0xe0b8  SRRO: 0xfffefeff  SRR1: 0xffffffff
+[11/25/2004  17:08:44] Reset  RSR: 0xe0b8  SRRO: 0xfffefeff  SRR1: 0xffffffff
+[11/25/2004  17:13:39] Reset  RSR: 0xe0b8  SRRO: 0xfffefefb  SRR1: 0xffffffff
+[11/25/2004  17:33:05] Reset  RSR: 0xe0b8  SRRO: 0xfffefeff  SRR1: 0xffffffff
+[11/25/2004  17:35:02] Reset  RSR: 0xe0b8  SRRO: 0xfffefefb  SRR1: 0xffffffff
+[05/02/2005  17:04:53] Reset  RSR: 0xe0b8  SRRO: 0xfefefefb  SRR1: 0xffffffff
+[05/02/2005  17:31:58] Reset  RSR: 0xe0b8  SRRO: 0xfefefeff  SRR1: 0xffffffff
+[05/02/2005  20:00:09] Reset  RSR: 0xe0b8  SRRO: 0xfffefeff  SRR1: 0xffffffff
+[08/02/2005  04:01:58] Reset  RSR: 0xe0b8  SRRO: 0xfffe7eff  SRR1: 0xffffffff
+[08/02/2005  04:02:00] Reset  RSR: 0xe0b8  SRRO: 0x0001fa9c  SRR1: 0x00009942
+[10/19/2005  17:03:58] Reset  RSR: 0xe0b8  SRRO: 0xfffefefb  SRR1: 0xffffffff
+[10/19/2005  22:37:16] Reset  RSR: 0xe0b8  SRRO: 0xfffefeff  SRR1: 0xffffffff
+[10/19/2005  22:37:18] Reset  RSR: 0xe0b8  SRRO: 0xfffefefb  SRR1: 0xffffffff
+[11/17/2005  11:04:05] Reset  RSR: 0xe0b8  SRRO: 0xfffe7efb  SRR1: 0xffffffff
+[11/17/2005  13:19:49] Reset  RSR: 0xe0b8  SRRO: 0xfefefefb  SRR1: 0xffffffff
+[11/24/2005  16:45:53] Reset  RSR: 0xe0b8  SRRO: 0xfffefeff  SRR1: 0xffffffff
+[11/24/2005  19:27:15] Reset  RSR: 0xe0b8  SRRO: 0xfffefefb  SRR1: 0xffffffff
+[12/06/2005  13:51:05] Reset  RSR: 0xe0b8  SRRO: 0xfffefefb  SRR1: 0xffffffff
+[12/06/2005  14:52:13] Reset  RSR: 0xe0b8  SRRO: 0xfefefefb  SRR1: 0xffffffff
+[12/06/2005  15:58:33] Reset  RSR: 0xe0b8  SRRO: 0xfffe7efb  SRR1: 0xffffffff
+[12/06/2005  20:57:01] Reset  RSR: 0xe0b8  SRRO: 0xfffefeff  SRR1: 0xffffffff
+[12/06/2005  23:12:00] Reset  RSR: 0xe0b8  SRRO: 0xfffe7efb  SRR1: 0xffffffff
+[12/06/2005  23:12:03] Reset  RSR: 0xe0b8  SRRO: 0xfefe7efb  SRR1: 0xffffffff
+[12/06/2005  23:12:05] Reset  RSR: 0xe0b8  SRRO: 0xfefe7eff  SRR1: 0xffffffff
+[01/13/2006  13:14:29] Reset  RSR: 0xe0b8  SRRO: 0xfffe7eff  SRR1: 0xffffffff
+[01/13/2006  13:22:57] Reset  RSR: 0xe0b8  SRRO: 0xfffe7efb  SRR1: 0xffffffff
+[01/13/2006  13:34:16] Reset  RSR: 0xe0b8  SRRO: 0xfffefefb  SRR1: 0xffffffff
+[01/27/2006  13:50:19] Reset  RSR: 0xe0b8  SRRO: 0xfefe7efb  SRR1: 0xffffffff
+[01/27/2006  14:07:51] Reset  RSR: 0xe0b8  SRRO: 0xfefe7efb  SRR1: 0xffffffff
+[02/15/2006  21:02:59] Reset  RSR: 0xe0b8  SRRO: 0xfefefeff  SRR1: 0xffffffff
+[02/15/2006  23:09:41] Reset  RSR: 0xe0b8  SRRO: 0xfffefeff  SRR1: 0xffffffff
+[07/09/2006  16:16:11] Reset  RSR: 0xe0b8  SRRO: 0xfffefefb  SRR1: 0xffffffff
+[07/09/2006  16:49:25] Reset  RSR: 0xe0b8  SRRO: 0xfffefeff  SRR1: 0xffffffff
+[10/31/2007  16:59:11] Reset  RSR: 0xe0b8  SRRO: 0xfefe7eff  SRR1: 0xffffffff
+[10/31/2007  16:59:14] Reset  RSR: 0xe0b8  SRRO: 0xfefe7efb  SRR1: 0xffffffff
+[10/31/2007  17:53:04] Reset  RSR: 0xe0b8  SRRO: 0xfffefefb  SRR1: 0xffffffff
+[10/31/2007  19:45:55] Reset  RSR: 0xe0b8  SRRO: 0xfffefeff  SRR1: 0xffffffff
+[10/31/2007  20:44:10] Reset  RSR: 0xe0b8  SRRO: 0xfffefeff  SRR1: 0xffffffff
+[10/31/2007  20:44:15] Reset  RSR: 0xe0b8  SRRO: 0xfffefefb  SRR1: 0xffffffff
+[10/31/2007  20:44:19] Reset  RSR: 0xe0b8  SRRO: 0xfffefeff  SRR1: 0xffffffff
+[11/01/2007  12:02:31] Reset  RSR: 0xe0b8  SRRO: 0xfffefeff  SRR1: 0xffffffff
+[12/22/2008  17:27:51] Reset  RSR: 0xe0b8  SRRO: 0xfffefeff  SRR1: 0xffffffff
+[02/07/2009  08:29:00] Reset  RSR: 0xe0b8  SRRO: 0xfffefeff  SRR1: 0xffffffff
+[03/25/2009  20:39:58] Reset  RSR: 0xe0b8  SRRO: 0xfffefeff  SRR1: 0xffffffff
+[03/25/2009  21:22:36] Reset  RSR: 0xe0b8  SRRO: 0xfffefeff  SRR1: 0xffffffff
+[11/27/2009  21:05:14] Reset  RSR: 0xe0b8  SRRO: 0xfffefefb  SRR1: 0xffffffff
+[08/22/2013  12:13:32] Reset  RSR: 0xe0b8  SRRO: 0xfffe7eff  SRR1: 0xffffffff
+[08/22/2013  12:15:22] Reset  RSR: 0xe0b8  SRRO: 0xfffefefb  SRR1: 0xffffffff
+[08/22/2013  12:20:43] Reset  RSR: 0xe0b8  SRRO: 0xfffe7efb  SRR1: 0xffffffff
+[08/22/2013  12:41:00] Reset  RSR: 0xe0b8  SRRO: 0xfffefefb  SRR1: 0xffffffff
+[08/22/2013  12:59:48] Reset  RSR: 0xe0b8  SRRO: 0xfffefeff  SRR1: 0xffffffff
+[08/22/2013  13:06:19] Reset  RSR: 0xe0b8  SRRO: 0xfffefeff  SRR1: 0xffffffff
+[08/22/2013  13:16:32] Reset  RSR: 0xe0b8  SRRO: 0xfffefeff  SRR1: 0xffffffff
+[08/22/2013  15:02:42] Reset  RSR: 0xe0b8  SRRO: 0xfffefeff  SRR1: 0xffffffff
+[02/15/2014  11:43:16] Reset  RSR: 0xe0b8  SRRO: 0xfffefeff  SRR1: 0xffffffff  Cnt: 1
+[02/15/2014  11:43:16] 3.3V: 0.000  5V: 0.000  15V: 15.038  -15V: -15.072
+[02/16/2014  13:22:01] IOC switch to unhealthy.  Health Flags: 0x0008
+[02/17/2014  20:25:09] Reset  RSR: 0xe0b8  SRRO: 0xfffefeff  SRR1: 0xffffffff  Cnt: 2
+[02/17/2014  20:25:09] 3.3V: 0.000  5V: 0.000  15V: 15.038  -15V: -15.092
+[07/10/2015  22:57:00] IOC switch to unhealthy.  Health Flags: 0x0020
+[07/10/2015  23:45:51] IOC switch to unhealthy.  Health Flags: 0x0008
+[07/11/2015  00:20:10] IOC switch to unhealthy.  Health Flags: 0x0008
+[07/11/2015  14:26:26] IOC switch to unhealthy.  Health Flags: 0x0008
+[12/11/2015  08:43:01] IOC switch to unhealthy.  Health Flags: 0x0008
+[12/11/2015  15:33:04] Reset  RSR: 0xe0b8  SRRO: 0xfffefeff  SRR1: 0xffffffff  Cnt: 3
+[12/11/2015  15:33:04] 3.3V: 0.000  5V: 0.000  15V: 15.038  -15V: -15.092
+[12/11/2015  15:34:44] Reset  RSR: 0xe0b8  SRRO: 0xfffefeff  SRR1: 0xffffffff  Cnt: 4
+[12/11/2015  15:34:44] 3.3V: 0.000  5V: 0.000  15V: 15.038  -15V: -15.092
+current IOC time: [01/20/2016 18:05:11]
+IOC bus 1 slot 3:
+{PN}[18-550555-001E ]:{Rev}[E ]:{PCB}[17-550555-001E ]:{SN}[0501-02-007]:{ERN#}[050/9911/007   ]:{U4}[MemoryA_U4_D.jed        ]:{U43}[HealthyBeta_U43_B.jed   ]:{U103}[fdcp_3.pof              ]:{U135}[MemoryB_U135_C.jed      ]:{U153}[Analog_U153_B.jed       ]:{U203}[fdcp_3.pof              ]:{AY TEST}[               ]:{ESSCnt}[00]:{CRNCnt}[3 ]:{MDNCnt}[1 ]:{RMACnt}[0]:{DataCnt}[0]:{SPTrackCnt}[0]::{U22}[Addr_U22_B.jed          ]:{U25}[Data_U25_B.jed          ]::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::{ESS-01}[8ESS0118]:{PROJ#}[9964   ]:{Customer}[NAM                 ]:{CALFILE}[                    ]:{CALDATE}[12/18/01  ]:{FTTECH}[Randy Fleming  ]:{FTDATE}[12/20/01  ]:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::{CRN-01}[500/9910/004]:{CRN-02}[500/0003/018]:{CRN-03}[500/0010/009]:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::{MDN-01}[500-008     ]::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::{BAUD}[38400  ]:{MB}[255]:::::::
+IOC bus 1 slot 3:
+Voltage Limits: 
+   5 volt Min:   0.000  [01/01/0070 00:00:00]
+          Max:   0.000  [01/01/0070 00:00:00]
+   3 volt Min:   0.000  [01/01/0070 00:00:00]
+          Max:   0.000  [01/01/0070 00:00:00]
+  15 volt Min:  14.435  [12/11/0115 15:33:46]
+          Max:  15.038  [02/15/0114 11:43:16]
+ -15 volt Min: -15.366  [02/24/0114 04:01:44]
+          Max: -14.915  [02/15/0114 12:10:58]
