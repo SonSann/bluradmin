@@ -12,11 +12,13 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 
 RewriteRule ^app/(.*)$ /client/app/$1 [R=301,L]
-RewriteRule ^assets/(.*)$ /client/assets/$1 [R=301,L]
-RewriteRule ^auth.html /client/auth.html [QSA,L]
-RewriteRule ^404.html /client/404.html [QSA,L]
-RewriteRule ^reg.html /client/reg.html [QSA,L]
+RewriteRule ^assets/(.*)$ /release/assets/$1 [R=301,L]
+RewriteRule ^styles/(.*)$ /release/styles/$1 [R=301,L]
+RewriteRule ^fonts/(.*)$ /release/fonts/$1 [R=301,L]
+RewriteRule ^maps/(.*)$ /release/maps/$1 [R=301,L]
+RewriteRule ^scripts/(.*)$ /release/scripts/$1 [R=301,L]
 RewriteRule ^api index.php [QSA,L]
+RewriteRule ^login index.php [QSA,L]
 
 #RewriteRule .* - [env=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
 

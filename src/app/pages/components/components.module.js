@@ -9,6 +9,7 @@
     'BlurAdmin.pages.components.mail',
     'BlurAdmin.pages.components.timeline',
     'BlurAdmin.pages.components.tree',
+    'BlurAdmin.pages.components.upload',
   ])
       .config(routeConfig);
 

@@ -13,8 +13,10 @@ angular.module('BlurAdmin', [
   'ngJsTree',
   'angular-progress-button-styles',
   'ngCookies',
+  'ngResource',
+  'angularFileUpload',
 
   'BlurAdmin.theme',
   'BlurAdmin.pages',
-  'BlurAdmin.auth',
+  'BlurAdmin.constants'
 ]);

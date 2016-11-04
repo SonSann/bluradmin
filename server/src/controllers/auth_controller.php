@@ -58,6 +58,21 @@ class AuthController extends BasicController {
         return $token;
     }
 
+    public function login(Request $request, Response $response, $args) {
+        $email = $_POST['email'];
+        $password = $_POST['password'];
+
+        if($user = $this->model->authenticate($email, $password)) {
+            $token = $this->createJWT($user);
+            $data["status"] = "ok";
+            $data["token"] = $token;
+            $_SESSION['user'] = $user;
+            return $response->withStatus(302)->withHeader('Location', '/');
+        } else {
+            return $this->ci->renderer->render($response, 'auth.html', $args);
+        }
+    }
+
     public function basic(Request $request, Response $response, $args) {
 //        $email = $_SERVER['PHP_AUTH_USER'];
 //        $password = $_SERVER['PHP_AUTH_PW'];

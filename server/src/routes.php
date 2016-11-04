@@ -9,13 +9,19 @@ require_once 'controllers/tag_controller.php';
 require_once 'controllers/statistics_controller.php';
 require_once 'controllers/auth_controller.php';
 
-$app->get('/[{name}]', function ($request, $response, $args) {
+$app->get('/', function ($request, $response, $args) {
     // Sample log message
     $this->logger->info("Slim-Skeleton '/' route");
 
-    // Render index view
-    return $this->renderer->render($response, 'index.phtml', $args);
+    if (isset($_SESSION['user'])) {
+        // Render index view
+        return $this->renderer->render($response, 'index.html', $args);
+    } else {
+        return $this->renderer->render($response, 'auth.html', $args);
+    }
 });
+
+$app->post('/login', '\AuthController:login');
 
 $app->group('/api/', function() use ($app) {
 
